@@ -1,0 +1,1 @@
+{"mysql_db_config": {"sqldb_route": "mysql+pymysql", "username": "root", "password": "root1234", "host": "localhost:3306", "database": "mydatabase"}, "data_frame": {"df": "fifa18_clean.csv"}, "db_import": {"table_name": "census", "if_exists": "append", "index_column": false}}
