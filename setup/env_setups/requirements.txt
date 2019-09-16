@@ -1,0 +1,4 @@
+jupyter notebook
+Pandas
+MySQL database
+Conda-env
